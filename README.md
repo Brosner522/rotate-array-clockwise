@@ -1,4 +1,4 @@
-# Bonus 3: Rotate Array Clockwise
+## Bonus 3: Rotate Array Clockwise
 
 **Fork and then clone me!**
 
